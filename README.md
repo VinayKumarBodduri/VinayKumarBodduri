@@ -6,9 +6,7 @@ Hello, thank you for visiting my Github. My name is Vinay Kumar.Bodduri. current
 
 ### :hammer_and_wrench: Languages and Tools :
 
-**Client:** React
 
-**Server:** Node
 
 ### :zap: Connect Here :
 <div id="badges">
