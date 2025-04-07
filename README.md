@@ -1,63 +1,60 @@
-<img src="https://komarev.com/ghpvc/?username=VinayKumarBodduri&style=flat-square&color=blue" alt=""/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VinayKumarBodduri&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
-# 👋 Hello, I'm Vinay Kumar Bodduri
+<h1 align="center">Hi there 👋, I'm Vinay Kumar Bodduri</h1>
 
-🚀 **Generative AI & Machine Learning Scientist** with **7+ years of experience** in building intelligent systems, RAG chatbots, agentic AI, and full-stack web applications. I’m passionate about solving real-world problems by combining the power of AI, automation, and cloud technologies.
-
-Previously a Full Stack Web Developer — now diving deep into multi-agent AI workflows, LLM-based automation, and end-to-end intelligent pipelines.
+<p align="center">
+  <strong>Generative AI & Machine Learning Scientist</strong> with <strong>7+ years of experience</strong><br/>
+  Specializing in LLMs, RAG chatbots, agentic AI, automation, and full-stack development
+</p>
 
 ---
 
 ### 💼 About Me
 
-- 🧠 Currently at **TRC Companies, Inc.**, building **multi-agent GenAI systems** with CrewAI, LangGraph, and LangChain.
-- 🤖 Experienced in **AI automation, document chatbots, OCR systems**, and **LLM integrations**.
-- 🌐 Cloud-savvy: deploying robust, scalable systems using **AWS**, **GCP**, **FastAPI**, and **Playwright**.
-- 📊 Strong foundation in **ML/DL**, NLP, and data engineering.
+- 🧠 Currently at **TRC Companies, Inc.**, building **multi-agent GenAI systems** using **CrewAI**, **LangGraph**, and **LangChain**
+- 🤖 Experienced in developing **LLM-powered automation**, document-based chatbots, OCR pipelines, and email-integrated agents
+- ☁️ Skilled in deploying scalable, production-ready systems on **AWS**, **GCP**, with **FastAPI**, **Playwright**, and microservices
+- 📈 Strong foundation in **Machine Learning**, **Deep Learning**, **Time-Series Forecasting**, **NLP**, and **Data Engineering**
+- 🛠️ Exploring **AutoGen** and the next-gen of agentic frameworks to build collaborative, goal-oriented AI agents
 
 ---
 
-### 🔧 Skills Snapshot
+### 🌟 Featured Projects
 
-**Languages:** Python, JavaScript, R, SQL  
-**AI/ML:** Transformers, LLMs, YOLO, CNN, RNN, Scikit-learn, TensorFlow, Keras  
-**Frameworks:** FastAPI, Flask, React.js, LangChain, CrewAI, LangGraph  
-**Tools:** Playwright, Tesseract OCR, Git, Docker, Jupyter, Pinecone, Weaviate  
-**Cloud:** AWS, GCP, Azure  
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- 🔹 **🔍 AI-Driven RFP Scraper & Email Notifier**  
+  Automates extraction from RFP portals (even with auth), summarizes with LLMs, and emails opportunities
+
+- 🔹 **📝 Multi-Agent Grant Proposal Generator**  
+  Agents collaborate to write structured, guideline-compliant grant proposals from scratch
+
+- 🔹 **📚 Document & Web-Based AI Chatbot**  
+  Intelligent chatbot that answers queries from PDFs, URLs, and other sources using LangChain + VectorDB
+
+- 🔹 **🧬 Biomedical AI Assistant**  
+  GPT-based chatbot for answering healthcare-related queries on biomedical websites
+
+- 🔹 **📦 Supply Chain Time-Series Forecasting**  
+  Used ARIMA + ML models to predict pallet demand for inventory optimization
+
+- 🔹 **🧾 Tesseract OCR Automation**  
+  Automated data extraction from scanned PDFs/images using OCR + NLP cleaning pipelines
+
 
 ---
 
-### 🌟 Highlight Projects
+### 🔗 Let’s Connect
 
-- 🔹 **AI-Driven RFP Scraper & Email Notifier**  
-- 🔹 **Multi-Agent Grant Proposal Generator**  
-- 🔹 **Document & Web-Based AI Chatbot**  
-- 🔹 **Biomedical AI Assistant (GPT-powered)**  
-- 🔹 **Supply Chain Time-Series Forecasting**  
-- 🔹 **Tesseract OCR Automation for PDF Extraction**
-
----
-
-### :zap: Connect Here
-
-<div id="badges">
+<div align="center">
   <a href="https://www.linkedin.com/in/vinaykumarbodduri/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:vinaykumar.b2906@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+
 </div>
 
 ---
 
-### 📈 GitHub Stats (optional)
+### ⚡ Quote to Code By
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinayKumarBodduri&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumarBodduri&layout=compact&theme=radical)
-
----
-
-> ⚡ "Let’s build systems that think, automate, and adapt — one line of code at a time."
-
+> *“Let’s build systems that think, automate, and adapt — one line of code at a time.”*
